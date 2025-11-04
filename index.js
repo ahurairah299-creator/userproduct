@@ -22,7 +22,7 @@ fetch(url, fetchData)
         <div class="eachProduct">
         <img src="${value.image}" alt="">
         <p><b>First Name:</b>${value.firstName}</p>
-        <p><b>Maiden Name:</b>${value.maidenName}</p>
+        <p><b>Role:</b>${value.role}</p>
         <p><b>Last Name:</b>${value.lastName}</p>
         <p><b>Sex:</b>${value.gender}</p>
         <p><b>Phone Number:</b>${value.phone}</p>
